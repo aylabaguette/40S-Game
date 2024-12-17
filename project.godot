@@ -13,3 +13,7 @@ config_version=5
 config/name="40S Game"
 config/features=PackedStringArray("4.3", "Forward Plus")
 config/icon="res://icon.svg"
+
+[dotnet]
+
+project/assembly_name="40S Game"
